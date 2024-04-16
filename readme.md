@@ -1,6 +1,6 @@
 # Willkommen
 
-Die Active Group und ich heißen euch willkommen zum Tutorialtag 2024 und zur Einführung in Clojure.
+Die [Active Group](https://active-group.de/) und ich heißen euch willkommen zum [Tutorialtag 2024](https://active-group.de/tutorialtag/2024/) und zur [Einführung in Clojure](https://active-group.de/tutorialtag/2024/clojure/).
 
 Bereit für ein Abenteuer?
 
