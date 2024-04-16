@@ -12,10 +12,5 @@ Damit ihr euch möglichst schnell im dunklen Wald der Werkzeuge zurechtfindet un
 
 Falls ja, dann klicke auf den folgenden Knopf:
 
-[![Zur Lichtung im dunklen Wald der Werkzeuge](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Lotbert/tutorial-einfuehrung-in-clojure)
+[![Zur Lichtung im dunklen Wald der Werkzeuge](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Lotbert/tutorial-einfuehrung-in-clojure/blob/main/intro.md)
 
-## Siehst du das Licht zwischen den Baumkronen?
-
-Wir sammeln uns auf der Lichtung, um uns gemeinsam auf die Reise in die Welt von Clojure zu begeben:
-
-[Los gehts!](tutorial.md)
