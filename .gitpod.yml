@@ -4,3 +4,7 @@ image:
 vscode:
   extensions:
     - betterthantomorrow.calva
+
+tasks:
+    - init: |
+          clj -X:deps prep
