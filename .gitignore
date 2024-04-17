@@ -15,5 +15,7 @@ pom.xml.asc
 /.nrepl-port
 /.prepl-port
 /.cpcache
+.clj-kondo
+.lsp
 
 draft.md
