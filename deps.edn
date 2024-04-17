@@ -19,6 +19,11 @@
 
  ;; External dependencies
 
- :deps {clojure.java-time/clojure.java-time {:mvn/version "1.1.0"}}
+ :deps {;; REPL stuff
+        nrepl/nrepl {:mvn/version,"1.1.1"}
+        cider/cider-nrepl {:mvn/version,"0.47.1"}
+
+        ;; project deps
+        clojure.java-time/clojure.java-time {:mvn/version "1.1.0"}}
 
  }
